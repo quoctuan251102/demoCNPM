@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+section{
+	width:1149px;
+	height:auto;
+	padding:20px 10px;
+	background-color: #ededed;
+	text-align:center;
+}
+.lh{
+	padding-left:25%;
+	padding-right:25%;
+	padding-bottom:35%;
+	padding-top:13%;
+
+}
+#npn{
+	color:#606;
+
+	font-size:18px;
+}
+.lh p{
+	font-family:"Times New Roman", Times, serif;
+	font-size:14px;
+	font-weight:bolder;
+	color:#000;
+	margin-left:3%;
+	float:left;
+	margin-top:3%;
+
+	
+}
+
